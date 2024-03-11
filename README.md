@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anjalimehra
-- 👀 This document is based on CIND 820 - Data Analytics Project 
+- 👀 This document is based on CIND 820 - Big Data Analytics Project 
 - 🌱 My Project title is Proactive Disclosure - Annual Expenditures on Travel, Hospitality and
  			Conferences - Annual Expenditures on Travel, Hospitality and Conferences
   
